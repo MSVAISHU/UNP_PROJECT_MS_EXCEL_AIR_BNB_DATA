@@ -1,5 +1,5 @@
 # UNP_PROJECT_MS_EXCEL_AIR_BNB_DATA
-Completed this project as a part of my value added course with united network of proffesionals
+Completed this project as a part of my value added course with United Network Of Proffesionals
 
 
 key highlights:
