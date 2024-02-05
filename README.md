@@ -3,6 +3,8 @@ Completed this project as a part of my value added course with united network of
 
 
 key highlights:
+
+
 The provided data appears to be a detailed table showing Airbnb information, including room types, average prices, minimum nights, and other details for different neighborhoods in various boundaries.
 
 
